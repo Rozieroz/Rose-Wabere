@@ -31,6 +31,8 @@ With a background in **Criminology & Security Studies** and certifications in **
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
+[![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rozieroz)](https://github.com/Rozieroz/github-readme-stats)
+
 ## 🔧 Technical Expertise  
 
 **💻 Programming & Development**  
