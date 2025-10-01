@@ -26,6 +26,11 @@ With a background in **Criminology & Security Studies** and certifications in **
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+### 🛠️ Web Scraping
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
 ## 🔧 Technical Expertise  
 
 **💻 Programming & Development**  
