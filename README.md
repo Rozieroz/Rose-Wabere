@@ -10,7 +10,7 @@ With a background in **Criminology & Security Studies** and certifications in **
 ---
 ## 🛠️ Tech Stack
 
-### 🧠 Machine Learning & Data
+### 🧠 Machine Learning & Data Engineering
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
