@@ -8,54 +8,78 @@ I build solutions at the intersection of **data, software, and security** — tr
 With a background in **Criminology & Security Studies** and certifications in **cybersecurity, software development, and mediation**, I bring a **unique cross-disciplinary perspective**: blending **data-driven insights**, **system architecture**, and **human-centered problem-solving**.  
 
 ---
-## 🛠️ Tech Stack
 
-### 🧠 Machine Learning & Data Engineering
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## ⚙️ Core Competencies  
+**Data Science | Data Engineering | Machine Learning | Full-Stack Development | Cybersecurity**
 
-### 🌐 Backend
+
+---
+## 🧰 Tech Stack (Quick Overview)
+
+### 🧠 Data Science & Engineering  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-### 💻 Frontend
+### 🧩 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web Development  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🛠️ Web Scraping
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### ☁️ Cloud, Databases & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-[![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rozieroz)](https://github.com/Rozieroz/github-readme-stats)
-
+---
 ## 🔧 Technical Expertise  
 
 **💻 Programming & Development**  
 - Python, JavaScript (React, Node.js), SQL, HTML/CSS  
-- Flask, FastAPI, Django (exposure), REST APIs  
-- Full-Stack Development & Frontend Design  
+- API Development with FastAPI & Flask  
+- Full-Stack Development, UI/UX, and RESTful Services  
 
 **📊 Data Science & Analytics**  
-- Data Cleaning, Feature Engineering, EDA  
+- Data Cleaning, Feature Engineering, Exploratory Data Analysis  
 - Machine Learning: Regression, Classification, Clustering, Time-Series Forecasting  
 - NLP & AI Model Training (chatbots, annotation, labeling)  
-- Data Visualization: Power BI, Matplotlib, Seaborn  
+- Visualization: Power BI, Matplotlib, Seaborn, Plotly  
 
-**⚙️ Data Engineering & Cloud**  
-- ETL/ELT Pipeline Development  
-- Web Scraping (BeautifulSoup, Selenium)  
-- PostgreSQL, SQLite  
-- AWS (S3, RDS), Azure (exposure), Snowflake (beginner)  
-- Orchestration: Apache Airflow (familiar), dbt (beginner)  
+**⚙️ Data Engineering & Automation**  
+- ETL/ELT Pipeline Development (Airflow, dbt)  
+- Web Scraping & API Integration (BeautifulSoup, Selenium)  
+- Data Warehousing (PostgreSQL, SQLite, Snowflake)  
+- Cloud Solutions: AWS (S3, RDS), Azure (Data Factory, Storage)  
 
 **🔐 Security & Research**  
-- Cybersecurity Awareness & Risk Analysis  
-- Data Ethics & Responsible AI  
-- Criminology & Behavioral Research  
+- Cybersecurity & Risk Analysis  
+- Responsible AI, Data Privacy & Ethics  
+- Criminology & Behavioral Research-Inspired Behavioral Data Insights  
 
 ---
+
+## 💡 Personal Philosophy  
+> “Data, technology, and security are not separate disciplines — they’re lenses through which we understand, protect, and improve the world.”  
+
+---
+## 📫 Let’s Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/rosewabere)  
+💻 [Portfolio Website](#)  
+✉️ [Email Me](rosewabere5@gmail.com)  
+
+---
+
+⭐ *Always learning. Always building. Always solving with data(facts).*  
+
+
