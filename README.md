@@ -76,7 +76,7 @@ With a background in **Criminology & Security Studies** and certifications in **
 ## 📫 Let’s Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/rosewabere)  
 💻 [Portfolio Website](#)  
-✉️ [Email Me](rosewabere5@gmail.com)  
+✉️ [Email Me](mailto:rosewabere5@gmail.com)  
 
 ---
 
