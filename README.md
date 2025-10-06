@@ -1,4 +1,3 @@
-# Rose-Wabere
 # Hi, I'm Rose Wabere 👋  
 
 🚀 **Data Science Engineer | Full-Stack Developer | AI & Security Enthusiast**  
@@ -10,21 +9,22 @@ With a background in **Criminology & Security Studies** and certifications in **
 ---
 
 ## ⚙️ Core Competencies  
-**Data Science | Data Engineering | Machine Learning | Full-Stack Development | Cybersecurity**
+**Data Science | Data Engineering | Machine Learning | Full-Stack Development**
 
 
 ---
 ## 🧰 Tech Stack (Quick Overview)
 
-### 🧠 Data Science & Engineering  
+### Data Science & Engineering  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![CDC](https://img.shields.io/badge/-Change_Data_Capture-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### 🧩 Machine Learning & AI  
+### Machine Learning & AI  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,6 +35,8 @@ With a background in **Criminology & Security Studies** and certifications in **
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ☁️ Cloud, Databases & DevOps  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -46,7 +48,7 @@ With a background in **Criminology & Security Studies** and certifications in **
 ## 🔧 Technical Expertise  
 
 **💻 Programming & Development**  
-- Python, JavaScript (React, Node.js), SQL, HTML/CSS  
+- Python, JavaScript (React, Node.js), TypeScript, SQL, HTML/CSS   
 - API Development with FastAPI & Flask  
 - Full-Stack Development, UI/UX, and RESTful Services  
 
@@ -58,8 +60,9 @@ With a background in **Criminology & Security Studies** and certifications in **
 
 **⚙️ Data Engineering & Automation**  
 - ETL/ELT Pipeline Development (Airflow, dbt)  
-- Web Scraping & API Integration (BeautifulSoup, Selenium)  
-- Data Warehousing (PostgreSQL, SQLite, Snowflake)  
+- Web Scraping (BeautifulSoup, Selenium) and API Integration   
+- Data Warehousing (PostgreSQL, SQLite, Snowflake)
+- Data Streaming and **Change Data Capture (CDC)** using Kafka
 - Cloud Solutions: AWS (S3, RDS), Azure (Data Factory, Storage)  
 
 **🔐 Security & Research**  
@@ -73,7 +76,7 @@ With a background in **Criminology & Security Studies** and certifications in **
 > “Data, technology, and security are not separate disciplines — they’re lenses through which we understand, protect, and improve the world.”  
 
 ---
-## 📫 Let’s Connect  
+## Let’s Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/rosewabere)  
 💻 [Portfolio Website](#)  
 ✉️ [Email Me](mailto:rosewabere5@gmail.com)  
