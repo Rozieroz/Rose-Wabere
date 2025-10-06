@@ -2,9 +2,9 @@
 
 🚀 **Data Science Engineer | Full-Stack Developer | AI & Security Enthusiast**  
 
-I build solutions at the intersection of **data, software, and security** — transforming raw data into business intelligence, designing scalable pipelines, and developing full-stack applications that solve real-world problems.  
+I build solutions at the intersection of **data, software, and security**. I design intelligent systems that transform raw data into business intelligence — building scalable **data pipelines**, **machine learning models**, and **end-to-end applications** that solve real-world problems and work towards making a social impact.  
 
-With a background in **Criminology & Security Studies** and certifications in **cybersecurity, software development, and mediation**, I bring a **unique cross-disciplinary perspective**: blending **data-driven insights**, **system architecture**, and **human-centered problem-solving**.  
+With a background in **Criminology & Security Studies** and certifications in **data science and AI, cybersecurity,  software development, and mediation**, I bring a **unique cross-disciplinary perspective**: blending **data-driven insights**, **system architecture**, and **human-centered problem-solving**.  
 
 ---
 
@@ -72,7 +72,7 @@ With a background in **Criminology & Security Studies** and certifications in **
 
 ---
 
-## 💡 Personal Philosophy  
+## Personal Philosophy  
 > “Data, technology, and security are not separate disciplines — they’re lenses through which we understand, protect, and improve the world.”  
 
 ---
